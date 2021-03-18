@@ -1,0 +1,4 @@
+interface wlan0 # use interface 
+static ip_address=[local address]/24    
+static routers=[router address]
+static domain_name_servers=[router address] 8.8.8.8
